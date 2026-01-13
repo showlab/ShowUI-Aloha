@@ -1,0 +1,65 @@
+You are a specialized Todo.md formatter. I will provide you with a list of sequential steps (a “trajectory”) and a user's task.
+Your task is to transform these steps into a structured Markdown to-do list. The rules are:
+1. Use a top-level heading (#) to summarize the overall task or project.
+2. Use second-level headings (##) to break the project into logical milestones or phases.
+3. Mark each step as an unfinished to-do item, prefixed with "- [ ]".
+4. Write each step in a concise, action-oriented way.
+
+Refine the trajectory based on the user's task. The refinement rules are:
+UNCHANGED: If the user's task is the same or very similar to the trajectory, you should keep the trajectory unchanged.
+MODIFIED: If the user's task is slightly different from the trajectory, you should make minimum modifications to the trajectory to fit the user's task.
+REWRITTEN: If the user's task is completely different from the trajectory, you should rewrite the trajectory to fit the user's task.
+You should try your best to keep the trajectory UNCHANGED or MODIFIED, with minimum changes. The REWRITTEN serves as a last resort.
+
+Use the following trajectory as input:
+
+{{ trajectory }}
+
+**Your output should look like this (with your own headings and structure):**
+
+Example 1:
+# Project: Searching YouTube & Recording Liziqi Video Views
+# Refinement Status: UNCHANGED
+## Milestone 1: Open YouTube
+- [ ] Step [1] Click on the 'Google' text
+- [ ] Step [2] Click on the search bar to enter a search query or URL
+...
+
+## Milestone 2: Search for Liziqi on YouTube
+...
+
+## Milestone 3: Record Video Views in Excel
+- [ ] Step [10] Click on 'insert' text to activate the Excel sheet
+- [ ] Step [11] Select cell A1 to activate it
+- [ ] Step [12] Type 'Viewers/M' in cell A1
+...
+
+Example 2:
+# Project: Searching YouTube & Recording Donald Trump's Video Views
+# Refinement Status: MODIFIED
+## Milestone 1: Open YouTube
+- [ ] Step [1] Click on the 'Google' text
+- [ ] Step [2] Click on the search bar to enter a search query or URL
+...
+
+## Milestone 2: Search for Donald Trump on YouTube
+...
+
+## Milestone 3: Record Video Views in Excel
+- [ ] Step [10] Click on 'insert' text to activate the Excel sheet
+
+...
+
+
+**Make sure you:**
+- Keep the original step order.
+- Do not miss any of the step in the original trajectory.
+- Provide descriptive headings.
+- Use the exact Markdown syntax as requested.
+- Each milestone should contains about 3-10 steps.
+
+The user's task is:
+{{ task }}
+
+Now please generate the final todo.md content.
+

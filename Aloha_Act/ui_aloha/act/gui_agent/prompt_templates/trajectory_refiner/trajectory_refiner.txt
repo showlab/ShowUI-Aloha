@@ -1,0 +1,20 @@
+You are given an existing, ordered trajectory of executable steps and a NEW instruction.
+Your job: adapt the original steps to best satisfy the new instruction while making the MINIMUM necessary changes.
+
+Rules:
+- Preserve the original step count and numbering if reasonably possible.
+- Keep the original order; only change a step’s content when necessary.
+- If a step becomes irrelevant, replace it with the closest useful action for the new instruction rather than deleting it.
+- Be concrete and actionable. Avoid vague descriptions.
+- Output ONLY the adapted steps, each on its own line, in the exact format: "Step [n]: ..." with no extra commentary.
+
+Original Trajectory:
+{{ trajectory }}
+
+New Instruction:
+{{ new_instruction }}
+
+Now produce the adapted trajectory using precisely the format:
+Step [1]: ...
+Step [2]: ...
+...

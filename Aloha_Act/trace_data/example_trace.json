@@ -1,0 +1,130 @@
+{
+    "trajectory": [
+        {
+            "step_idx": 1,
+            "caption": {
+                "observation": "Chrome browser is open with New Tab page",
+                "think": "Need to search for Qatar Airways website",
+                "action": "Type 'qatar airways' in search bar",
+                "expectation": "Search query will be entered"
+            }
+        },
+        {
+            "step_idx": 2,
+            "caption": {
+                "observation": "Search query entered in browser",
+                "think": "Execute the search",
+                "action": "Press ENTER to search",
+                "expectation": "Google search results will appear"
+            }
+        },
+        {
+            "step_idx": 3,
+            "caption": {
+                "observation": "Google search results showing Qatar Airways options",
+                "think": "Click on official Qatar Airways website",
+                "action": "Click on Qatar Airways official website link from search results",
+                "expectation": "Qatar Airways homepage will load"
+            }
+        },
+        {
+            "step_idx": 4,
+            "caption": {
+                "observation": "Qatar Airways booking page loaded",
+                "think": "Need to specify departure location",
+                "action": "Click on departure city field",
+                "expectation": "Departure location input will be activated"
+            }
+        },
+        {
+            "step_idx": 5,
+            "caption": {
+                "observation": "Departure city field is active",
+                "think": "Enter Singapore",
+                "action": "Type 'Singapore'",
+                "expectation": "Singapore will be set as departure city"
+            }
+        },
+        {
+            "step_idx": 6,
+            "caption": {
+                "observation": "Singapore entered as departure city",
+                "think": "Need to specify destination",
+                "action": "Click on destination city field",
+                "expectation": "Destination input will be activated"
+            }
+        },
+        {
+            "step_idx": 7,
+            "caption": {
+                "observation": "Destination field is active",
+                "think": "Enter destination city",
+                "action": "Type 'Los' in destination field",
+                "expectation": "Los Angeles options will appear"
+            }
+        },
+        {
+            "step_idx": 8,
+            "caption": {
+                "observation": "Destination suggestions displayed",
+                "think": "Select Los Angeles from dropdown",
+                "action": "Click on Los Angeles option from dropdown menu",
+                "expectation": "Los Angeles will be selected as destination"
+            }
+        },
+        {
+            "step_idx": 9,
+            "caption": {
+                "observation": "Route selected: Singapore to Los Angeles",
+                "think": "Need to select departure date",
+                "action": "Click on departure date field",
+                "expectation": "Date picker will open"
+            }
+        },
+        {
+            "step_idx": 10,
+            "caption": {
+                "observation": "Date picker interface opened",
+                "think": "Navigate to desired departure date",
+                "action": "Click on specific departure date",
+                "expectation": "Departure date will be selected"
+            }
+        },
+        {
+            "step_idx": 11,
+            "caption": {
+                "observation": "Departure date selected",
+                "think": "Set return date for round trip",
+                "action": "Click on return date field",
+                "expectation": "Return date picker will open"
+            }
+        },
+        {
+            "step_idx": 12,
+            "caption": {
+                "observation": "Return date picker opened",
+                "think": "Select return date",
+                "action": "Click on specific return date",
+                "expectation": "Return date will be selected"
+            }
+        },
+        {
+            "step_idx": 13,
+            "caption": {
+                "observation": "Both departure and return dates selected",
+                "think": "Search for available flights",
+                "action": "Click on 'Search Flights' or 'Find Flights' button",
+                "expectation": "Flight search results will load"
+            }
+        },
+        {
+            "step_idx": 14,
+            "caption": {
+                "observation": "Flight search results page loaded",
+                "think": "Browse available flight options",
+                "action": "Click on preferred flight option",
+                "expectation": "Flight selection will be made and booking process will continue"
+            }
+        }
+    ]
+}

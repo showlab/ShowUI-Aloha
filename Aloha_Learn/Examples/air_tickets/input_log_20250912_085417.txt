@@ -1,0 +1,109 @@
+# Input Recording Log
+# Started: 2025-09-12 08:54:17.407
+# Metadata: {"video_start_time": "2025-09-12 08:54:17.407", "start_message": "Mouse and keyboard monitoring service started", "recording_timestamp": "20250912_085417", "screen_info": {"0": {"x0": 0, "y0": 0, "width": 2560, "height": 1440, "scale_factor": 1.0}}}
+# Format: JSON per line
+# Fields: timestamp, message, window
+
+{"timestamp": "00:00:00.000", "message": "{\"0\": {\"x0\": 0, \"y0\": 0, \"width\": 2560, \"height\": 1440, \"scale_factor\": 1.0}}", "window": "System Info"}
+{"timestamp": "00:00:00.005", "message": "Initial Active Window: electron.exe - electron-screen-recorder", "window": "electron.exe - electron-screen-recorder"}
+{"timestamp": "00:00:00.342", "message": "LClick at (955, 101)", "window": "electron.exe - electron-screen-recorder"}
+{"timestamp": "00:00:00.429", "message": "LRelease at (955, 101)", "window": "electron.exe - electron-screen-recorder"}
+{"timestamp": "00:00:00.517", "message": "Active Window: chrome.exe - New Tab - Google Chrome", "window": "electron.exe - electron-screen-recorder"}
+{"timestamp": "00:00:01.029", "message": "Key Press: Q", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.137", "message": "Key Release: Q", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.364", "message": "Key Press: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.438", "message": "Key Release: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.605", "message": "Key Press: T", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.694", "message": "Key Release: T", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.723", "message": "Key Press: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.817", "message": "Key Release: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:01.947", "message": "Key Press: R", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:02.029", "message": "Key Release: R", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:02.623", "message": "Key Press: SPACE", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:02.701", "message": "Key Release: SPACE", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.153", "message": "Key Press: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.247", "message": "Key Release: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.274", "message": "Key Press: I", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.377", "message": "Key Release: I", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.394", "message": "Key Press: R", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.459", "message": "Key Release: R", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.723", "message": "Key Press: W", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.853", "message": "Key Release: W", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:03.988", "message": "Key Press: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.094", "message": "Key Release: A", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.282", "message": "Key Press: Y", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.365", "message": "Key Release: Y", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.530", "message": "Key Press: S", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.594", "message": "Key Release: S", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:04.924", "message": "Key Press: ENTER", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:05.047", "message": "Key Release: ENTER", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:05.741", "message": "Active Window: chrome.exe - qatar airways - Google Search - Google Chrome", "window": "chrome.exe - New Tab - Google Chrome"}
+{"timestamp": "00:00:06.847", "message": "LClick at (668, 592)", "window": "chrome.exe - qatar airways - Google Search - Google Chrome"}
+{"timestamp": "00:00:06.953", "message": "LRelease at (668, 592)", "window": "chrome.exe - qatar airways - Google Search - Google Chrome"}
+{"timestamp": "00:00:08.143", "message": "Active Window: chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome", "window": "chrome.exe - qatar airways - Google Search - Google Chrome"}
+{"timestamp": "00:00:09.201", "message": "LClick at (463, 1092)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:09.312", "message": "LRelease at (463, 1092)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:10.865", "message": "LClick at (2177, 1344)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:10.954", "message": "LRelease at (2177, 1344)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:11.818", "message": "LClick at (520, 1078)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:11.924", "message": "LRelease at (520, 1078)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:12.230", "message": "Hotkey: SHIFT", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:12.542", "message": "Hotkey: SHIFT+S", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:12.553", "message": "Hotkey: SHIFT+A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:12.665", "message": "Key Release: A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:12.683", "message": "Key Release: S", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.424", "message": "Hotkey: SHIFT+BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.439", "message": "Key Release: SHIFT", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.509", "message": "Key Release: BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.697", "message": "Key Press: I", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.794", "message": "Key Release: I", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.857", "message": "Key Press: N", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:13.936", "message": "Key Release: N", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.030", "message": "Key Press: G", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.110", "message": "Key Release: G", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.190", "message": "Key Press: A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.248", "message": "Key Release: A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.290", "message": "Key Press: P", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.370", "message": "Key Release: P", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.462", "message": "Key Press: O", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.548", "message": "Key Release: O", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.658", "message": "Key Press: R", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.784", "message": "Key Press: E", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.808", "message": "Key Release: R", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:14.872", "message": "Key Release: E", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:16.554", "message": "LClick at (685, 488)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:16.630", "message": "LRelease at (685, 488)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:18.571", "message": "Hotkey: SHIFT", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:18.908", "message": "Hotkey: SHIFT+L", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:18.989", "message": "Key Release: L", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.213", "message": "Hotkey: SHIFT+A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.232", "message": "Hotkey: SHIFT+Z", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.270", "message": "Key Release: Z", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.284", "message": "Key Release: A", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.778", "message": "Key Release: SHIFT", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:19.882", "message": "Key Press: BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:20.010", "message": "Key Release: BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:21.590", "message": "Key Press: BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:21.696", "message": "Key Release: BACKSPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:22.602", "message": "Key Press: O", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:22.708", "message": "Key Release: O", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:22.778", "message": "Key Press: S", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:22.849", "message": "Key Release: S", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:23.055", "message": "Key Press: SPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:23.120", "message": "Key Release: SPACE", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:24.840", "message": "LClick at (1023, 477)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:24.918", "message": "LRelease at (1023, 477)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:26.884", "message": "LClick at (579, 286)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:26.961", "message": "LRelease at (579, 286)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:27.867", "message": "LClick at (1345, 389)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:27.961", "message": "LRelease at (1345, 389)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:30.405", "message": "LClick at (920, 828)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:30.514", "message": "LRelease at (920, 828)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:31.755", "message": "LClick at (2030, 1182)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:31.826", "message": "LRelease at (2031, 1182)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:33.402", "message": "LClick at (1991, 491)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:33.500", "message": "LRelease at (1991, 491)", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:35.838", "message": "Active Window: chrome.exe - Qatar Airways - Google Chrome", "window": "chrome.exe - Book Flights - Book & Fly from Singapore | Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:42.050", "message": "LClick at (2524, 46)", "window": "chrome.exe - Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:42.144", "message": "LRelease at (2524, 46)", "window": "chrome.exe - Qatar Airways - Google Chrome"}
+{"timestamp": "00:00:42.321", "message": "Active Window: electron.exe - electron-screen-recorder", "window": "chrome.exe - Qatar Airways - Google Chrome"}

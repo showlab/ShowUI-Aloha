@@ -1,0 +1,2 @@
+1. For scroll, the "Action" should specify the direction and the explicit name of the target (Icon/Text) to find.
+2. For wait, the "Action" should specify the result to wait for.

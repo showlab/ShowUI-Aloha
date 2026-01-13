@@ -1,0 +1,29 @@
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.8.0
+requests>=2.25.0
+Pillow
+
+# Frameworks and UI
+Flask
+PySide6
+streamlit>=1.38.0
+gradio>=5.6.0
+Jinja2
+
+# Testing and linting
+pytest==8.3.3
+pytest-asyncio==0.23.6
+pre-commit==3.8.0
+ruff==0.6.7
+
+# AI and API
+openai
+anthropic[bedrock,vertex]>=0.37.1
+
+# Utilities
+pyautogui==0.9.54
+jsonschema==4.22.0
+matplotlib
+screeninfo
+pynput>=1.7.7

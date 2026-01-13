@@ -1,0 +1,8 @@
+cache_dir: "./.cache"
+log_dir: "./logs"
+trace_dir: "./trace_data"
+
+# model settings
+planner_model: "gpt-5"
+actor_model: "oai-operator"
+os_name: "windows"  # "windows", "mac", "linux"

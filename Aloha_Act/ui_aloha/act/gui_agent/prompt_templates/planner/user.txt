@@ -1,0 +1,43 @@
+Task: {{ task }}
+
+Output Format:
+```json
+{
+    "Observation": str,
+    "Reasoning": str,
+    "Current Step in Guidance Trajectory": "(int, str)",
+    "Action": str,
+    "Expectation": str
+}
+```
+
+One Output Example:
+```json
+{
+    "Observation": "The screenshot shows the google homepage of the Chrome browser.",
+    "Reasoning": "The user wants to buy a lap-top on Amazon.com, so I need to click on the address bar of Chrome for entering the 'Amazon.com'.",
+    "Current Step in Guidance Trajectory": "(2, 'Step 1 is completed in Action History, I am following the Guidance Trajectory step 2 to click on the address bar.')",
+    "Action": "Click the search bar first to perform Google search and navigation",
+    "Expectation": "The search button is activated after being clicked, ready to input."
+}
+```
+
+Special notes for some computer-use actions:
+{% include 'planner/special_action_note.txt' %}
+
+Guidance Trajectory Examples:
+{{ guidance_trajectory_example }}.
+
+Action History (last {{ max_history_length }} steps) for current task execution:
+{{ action_history_str }}.
+
+**IMPORTANT NOTES:**
+1. Carefully observe the screenshot, and read the guidance trajectories and history actions.
+2. The Guidance Trajectory is a promise successful example of how to achieve the task. You should strictly follow the steps in the Guidance Trajectory unless you encounter unexpected issues. 
+3. You can try to get the environment back to the state in the Trajectory.
+4. Start from step 1 and complete the task step by step. DO NOT skip or overlook any step in the Guidance Trajectory.
+5. You should only give one planning (one action) at a time.
+6. Carefully determine the current step by comparing observation, action history with the Guidance Trajectory (e.g., if the last action of step n failed, you remain on step n, else move to step n+1). Only skip the steps (e.g., move to step n+2) if you are very sure the intermediate steps are completed.
+7. When the task is completed, set "Action": null.
+
+Now start planning:
