@@ -13,7 +13,7 @@ Teach your computer once. Aloha learns the workflow and executes new task varian
   <img src="https://img.shields.io/badge/OSWorld-361_Tasks_Tested-blue">
   <img src="https://img.shields.io/badge/Success_Rate-60.1%25-brightgreen">
   <img src="https://img.shields.io/badge/Platforms-Windows_|_macOS-purple">
-  <img src="https://img.shields.io/badge/License-Apache-2.0-lightgrey">
+  <img src="https://img.shields.io/badge/License-Apache--2.0-lightgrey">
 </p>
 
 ---
