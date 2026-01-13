@@ -107,8 +107,8 @@ Aloha learns through **abstraction, not memorization**: one demonstration genera
 
 ### 1. Clone the repository
 
-git clone https://github.com/
-cd aloha
+git clone https://github.com/showlab/ShowUI-Aloha
+cd ShowUI-Aloha
 
 ---
 
